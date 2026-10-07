@@ -1,0 +1,18 @@
+2026-10-07 17:55:13 [INFO] greeting_app: Starting Greeting App on http://127.0.0.1:5000
+2026-10-07 17:55:19 [INFO] greeting_app: Received submission: raw_input='John'
+2026-10-07 17:55:19 [INFO] greeting_app: Greeting generated for user='John'
+2026-10-07 17:55:19 [INFO] greeting_app: Received submission: raw_input='John123'
+2026-10-07 17:55:19 [WARNING] greeting_app: Validation failed: non-alphabetic input='John123'
+2026-10-07 17:56:46 [INFO] greeting_app: Received submission: raw_input='madhukumarv'
+2026-10-07 17:56:46 [INFO] greeting_app: Greeting generated for user='madhukumarv'
+2026-10-07 17:56:52 [INFO] greeting_app: Received submission: raw_input='154'
+2026-10-07 17:56:52 [WARNING] greeting_app: Validation failed: non-alphabetic input='154'
+2026-10-07 17:57:54 [INFO] greeting_app: Received submission: raw_input='154'
+2026-10-07 17:57:54 [WARNING] greeting_app: Validation failed: non-alphabetic input='154'
+2026-10-07 17:57:54 [INFO] greeting_app: Starting Greeting App on http://127.0.0.1:5000
+2026-10-07 17:58:10 [INFO] greeting_app: Starting Greeting App on http://127.0.0.1:5000
+2026-10-07 17:58:17 [INFO] greeting_app: Received submission: raw_input='154'
+2026-10-07 17:58:17 [ERROR] greeting_app: Validation failed: non-alphabetic input='154'
+2026-10-07 17:59:45 [INFO] greeting_app: Received submission: raw_input='manager1'
+2026-10-07 17:59:45 [ERROR] greeting_app: Validation failed: non-alphabetic input='manager1'
+2026-10-07 18:25:23 [INFO] greeting_app: Starting Greeting App on http://127.0.0.1:5000

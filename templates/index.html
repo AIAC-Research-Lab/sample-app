@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Greeting App</title>
+</head>
+<body>
+    <h1>Enter your name</h1>
+    <form method="POST" action="/">
+        <input type="text" name="username" placeholder="Letters only (no digits)">
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if greeting %}
+        <h2>{{ greeting }}</h2>
+    {% endif %}
+
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% endif %}
+</body>
+</html>
